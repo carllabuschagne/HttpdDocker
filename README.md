@@ -5,8 +5,8 @@
 
 
 
-<h2>Download and install Docker Desktop:</h2>
-
+<h3>Install Docker Desktop</h3>
+<p>Download Docker Desktop from the below link and install.</p>
 <a href="https://www.docker.com/">Docker</a>
 
 
