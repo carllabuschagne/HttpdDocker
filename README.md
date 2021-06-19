@@ -1,12 +1,13 @@
 # HttpdDocker
 
-Project to set up a simple http web server using Docker.
+
+<p>Project to set up a simple http web server using Docker.</p>
 
 
 
-Download and install Docker Desktop:
+<h2>Download and install Docker Desktop:</h2>
 
-https://www.docker.com/
+<a href="https://www.docker.com/">Docker</a>
 
 
 
@@ -34,7 +35,5 @@ $ docker run -dit --name my-running-app -p 8080:80 my-apache2
 Confirm the web application is hosted and available:
 
 Visit http://localhost:8080
-
-
 
 
